@@ -1,4 +1,4 @@
-#Full VWAP code but with no "API"
+#Full VWAP code
 import yfinance as yf
 from datetime import date, time
 import pandas as pd
