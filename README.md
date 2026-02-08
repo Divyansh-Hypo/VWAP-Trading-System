@@ -12,7 +12,7 @@ Started with NO pandas/matplotlib experience. Learned through:
 - **Professional debugging** (real problems = real learning)
 
 ## 📊 Features
-- Real-time market data via yfinance API
+- Real-time market data via Yahoo Finance API (yfinance)
 - VWAP + 2σ standard deviation bands
 - Session-aware daily reset logic
 - Professional matplotlib visualization
