@@ -1,4 +1,4 @@
-#Visualization part non API but real data
+#Visualization part 'API'
         #---matplotlib is basically used for visualization so that's why---
         import matplotlib.pyplot as plt
         fig, ax = plt.subplots(figsize = (12, 6)) #--this is for the frame size 
